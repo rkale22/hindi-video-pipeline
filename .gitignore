@@ -1,0 +1,8 @@
+# Ignore the virtual environment folder
+venv/
+
+# Byte-compiled / virtual machine / cached files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
